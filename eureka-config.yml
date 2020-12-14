@@ -27,7 +27,7 @@ spring:
     name: eureka-config
 
 server:
-  port: 7001
+  port: 7002
 
 eureka:
   instance:
